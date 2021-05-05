@@ -353,7 +353,7 @@ public class Controller {
 						pacijent.add(p);
 					
 						
-						// checking all programmers
+						
 						for(Pacijent pac: pacijent) {
 							int id = pac.getId(); // for now we only need this
 							String name=pac.getIme();
